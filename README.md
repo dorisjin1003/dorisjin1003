@@ -1,4 +1,4 @@
-👋 Hi, I’m @dorisjin1003
+👋 Hi, I’m Doris Jin.
 
 👀 I’m interested in data analytics.
 
