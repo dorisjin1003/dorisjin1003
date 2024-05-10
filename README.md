@@ -1,6 +1,6 @@
 👋 Hi, I’m Doris Jin.
 
-👀 I’m interested in data analytics.
+👀 I’m interested in full-stack development.
 
 🌱 My Portfolio Projects are in: https://github.com/dorisjin1003/DataAnalystPortfolioProjects
 
