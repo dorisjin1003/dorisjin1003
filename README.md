@@ -1,11 +1,11 @@
-👋 Hi, I’m Doris Jin.
+Hello, I am Doris.
 
-👀 I’m interested in full-stack development.
+Currently I am pursuing a Master's degree in information system from Stockholm University, Sweden, specializing in software development.
 
-📫 Email me at: dorisjin.se@gmail.com
-
-📫 Connect with me: https://www.linkedin.com/in/doris-jin-432a22a7/
-
-⚡ Fun fact: My versatile skill set has developed in 4-year full-time working experience across financial industry at Hong Kong. Strong analytical mindset, and effective communication style allow me to excel in bridge the gap between technology and business needs and accomplish objectives with enthusiasm and dedication in data science.
+🔭 I am a software Engineer and currently working as a full-stack developer intern in a Swedish start-up. 
+👯 I’m also looking to collaborate on projects in my free time.
+🌱 Currently growing in the field of Data Science and it's pretty cool.
+💬 Keep in touch via Email - dorisjin.se@gmail.com
+🤝 LinkedIn: https://www.linkedin.com/in/doris-jin-432a22a7/
 
 
